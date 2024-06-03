@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://pache.co/category/pacheflix/$1"
+ }
+  ]
+}
